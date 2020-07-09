@@ -1,4 +1,4 @@
-Hello, I'm [Muskein](https://muskein.com) 🚀 ! 
+Hello, I'm [Muskein Singh](https://muskein.com) 🚀 ! 
 
 - JS Enthusiast. 
 - SDE III. 
