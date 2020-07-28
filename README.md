@@ -23,3 +23,4 @@ You can reach out to me @[Muskein](https://twitter.com/Muskein)!
 [![npm-commands-gui](https://github-readme-stats.vercel.app/api/pin/?username=muskeinsingh&repo=npm-commands-gui)](https://github.com/muskeinsingh/npm-commands-gui)
 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskeinsingh&layout=compact)](https://github.com/muskeinsingh)
