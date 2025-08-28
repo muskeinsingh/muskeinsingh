@@ -3,7 +3,7 @@ Hello, I'm [Muskein Singh](https://muskein.com) 🚀. Thanks for dropping by!
 
 - JS Enthusiast 🍔
 - Principal Software Engineer @ Atlassian 🧠 Ex - Microsoft | Flipkart
-- Building Chat Experience for Jira Service @ Atlassian ⚛️
+- Building Knowledge Base for JSM @ Atlassian ⚛️
 - Currently based out of Bangalore, India 🇮🇳
 - Punjabi 🎵
 - Bhangra, on-repeat 🕺
